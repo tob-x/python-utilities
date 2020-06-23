@@ -1,3 +1,11 @@
+"""
+    74 6F 62
+
+    author:tob
+    desc: write public ip and said ip location
+
+"""
+
 import requests
 import json
 

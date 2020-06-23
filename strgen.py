@@ -1,3 +1,10 @@
+"""
+    74 6F 62
+
+    author:tob
+    desc: simple string gen with options
+
+"""
 import random
 import getopt
 import sys
